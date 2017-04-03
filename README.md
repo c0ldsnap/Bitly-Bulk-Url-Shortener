@@ -17,13 +17,11 @@ Each url should be unique.
 #Both Bitly Links Unique
 
 http://www.cake.com/page1 => bit.ly/fffef 
-
 http://www.cake.com/page2 => bit.ly/eeefe
 
 #Both Bitly Links Not Unique
 
 http://www.cake.com/page3 => bit.ly/qwerty
-
 http://www.cake.com/page3 => bit.ly/qwerty
 
 
