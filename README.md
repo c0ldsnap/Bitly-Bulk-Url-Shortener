@@ -8,10 +8,10 @@ Bit.ly Api Documentation here https://dev.bitly.com/api.html
 The api limit is 10,000 per an Api Key.
 You cannot  not make 1 url into 10,000 urls.(It will just give you the same shorten url 10,000 times and may also give you an exceeded limitation error.
 You also cannot shorten urls which lead to dead 404 pages.
-
-The urls must be in proper format such as http://cake.com https://cake.com http://www.cake.com https://www.cake.com
+The urls must be in proper format such as http://cake.com , https://cake.com , http://www.cake.com , https://www.cake.com
 
 Each url should be unique.
+
 *Example*
 
 #Both Bitly Links Unique
