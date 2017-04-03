@@ -1,6 +1,7 @@
 #Created by c0ldsnap
 #First Github upload ever!
 #Github https://github.com/c0ldsnap/Bitly-Bulk-Url-Shortener
+#Python 2.7
 
 
 import requests
